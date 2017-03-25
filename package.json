@@ -1,0 +1,32 @@
+{
+  "name": "blogsiteapi",
+  "version": "0.0.1",
+  "description": "This API is provide data to my blogSiteWithAngular2 rpoject",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0m3rF/blogsiteapi.git"
+  },
+  "keywords": [
+    "Rest",
+    "API",
+    "nodejs",
+    "expressjs",
+    "mongodb"
+  ],
+  "author": "0m3rF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0m3rF/blogsiteapi/issues"
+  },
+  "homepage": "https://github.com/0m3rF/blogsiteapi#readme",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "cors": "^2.8.1",
+    "express": "^4.15.0",
+    "mongojs": "^2.4.0"
+  }
+}
